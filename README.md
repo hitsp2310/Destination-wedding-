@@ -1,4 +1,204 @@
-<header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grand Weddings in Udaipur</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Grand Weddings in Udaipur</h1>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#packages">Packages</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="container">
+      <h2>Your Dream Wedding Awaits</h2>
+      <p>Plan your grand wedding in the city of lakes, Udaipur.</p>
+      <a href="#contact" class="btn">Book Now</a>
+    </div>
+  </section>
+
+  <section id="packages" class="packages">
+    <div class="container">
+      <h2>Our Wedding Packages</h2>
+      <div class="package-list">
+        <div class="package">
+          <h3>Basic Package</h3>
+          <p>Starting at ₹10,00,000</p>
+          <ul>
+            <li>Venue Booking</li>
+            <li>Catering for 200 Guests</li>
+            <li>Decorations</li>
+          </ul>
+        </div>
+        <div class="package">
+          <h3>Premium Package</h3>
+          <p>Starting at ₹20,00,000</p>
+          <ul>
+            <li>Luxury Venue</li>
+            <li>Catering for 500 Guests</li>
+            <li>Full Decor & Lighting</li>
+            <li>Entertainment</li>
+          </ul>
+        </div>
+        <div class="package">
+          <h3>Royal Package</h3>
+          <p>Starting at ₹50,00,000</p>
+          <ul>
+            <li>Palace Venue</li>
+            <li>Catering for 1000 Guests</li>
+            <li>Luxury Decor</li>
+            <li>Live Performances</li>
+            <li>Photography & Videography</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="gallery" class="gallery">
+    <div class="container">
+      <h2>Gallery</h2>
+      <div class="image-grid">
+        <img src="image1.jpg" alt="Wedding Venue">
+        <img src="image2.jpg" alt="Decor">
+        <img src="image3.jpg" alt="Catering">
+        <img src="image4.jpg" alt="Entertainment">
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <form action="#" method="post">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <input type="tel" name="phone" placeholder="Your Phone" required>
+        <textarea name="message" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+      </form>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Grand Weddings in Udaipur. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grand Weddings in Udaipur</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Grand Weddings in Udaipur</h1>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#packages">Packages</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="container">
+      <h2>Your Dream Wedding Awaits</h2>
+      <p>Plan your grand wedding in the city of lakes, Udaipur.</p>
+      <a href="#contact" class="btn">Book Now</a>
+    </div>
+  </section>
+
+  <section id="packages" class="packages">
+    <div class="container">
+      <h2>Our Wedding Packages</h2>
+      <div class="package-list">
+        <div class="package">
+          <h3>Basic Package</h3>
+          <p>Starting at ₹10,00,000</p>
+          <ul>
+            <li>Venue Booking</li>
+            <li>Catering for 200 Guests</li>
+            <li>Decorations</li>
+          </ul>
+        </div>
+        <div class="package">
+          <h3>Premium Package</h3>
+          <p>Starting at ₹20,00,000</p>
+          <ul>
+            <li>Luxury Venue</li>
+            <li>Catering for 500 Guests</li>
+            <li>Full Decor & Lighting</li>
+            <li>Entertainment</li>
+          </ul>
+        </div>
+        <div class="package">
+          <h3>Royal Package</h3>
+          <p>Starting at ₹50,00,000</p>
+          <ul>
+            <li>Palace Venue</li>
+            <li>Catering for 1000 Guests</li>
+            <li>Luxury Decor</li>
+            <li>Live Performances</li>
+            <li>Photography & Videography</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="gallery" class="gallery">
+    <div class="container">
+      <h2>Gallery</h2>
+      <div class="image-grid">
+        <img src="image1.jpg" alt="Wedding Venue">
+        <img src="image2.jpg" alt="Decor">
+        <img src="image3.jpg" alt="Catering">
+        <img src="image4.jpg" alt="Entertainment">
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <form action="#" method="post">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <input type="tel" name="phone" placeholder="Your Phone" required>
+        <textarea name="message" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+      </form>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Grand Weddings in Udaipur. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html><header>
 
 <!--
   <<< Author notes: Course header >>>
